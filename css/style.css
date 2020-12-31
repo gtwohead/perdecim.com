@@ -1,0 +1,107 @@
+.resimslider{
+    height: 600px;
+}
+body{
+    padding-top: 55px;
+}
+nav{
+    font-family: 'Lato', sans-serif;
+    font-size: larger;
+    padding: 0%;
+    cursor: pointer;
+}
+.hakkimizda{
+    background-color: #f2f2f2;
+}
+.ekipcard>img:hover{
+    opacity: 0.8;
+}
+.galeri{
+    background-color: #f2f2f2;
+}
+.figure:hover{
+    opacity: 0.8;
+}
+iframe{
+    width: 70%;
+    height: 350px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px 12px rgba(20, 23, 28, .15);
+    border: 1px solid black;
+}
+.ilet{
+    background-color: white;
+}
+.galrsm{
+    box-shadow: 0 2px 8px 12px rgba(20, 23, 28, .15);
+    border: 3px solid black;
+}
+.basliklar{
+    font-family: 'East Sea Dokdo', cursive;
+    font-family: 'Noto Serif', serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 60px;
+}
+.navbaslik{
+    font-family: 'East Sea Dokdo', cursive;
+    font-family: 'Ubuntu', sans-serif;
+}
+.sembol{
+    margin: 5px;
+    font-size: 30px !important;
+}
+.nvbr{
+    opacity: 0.9;
+}
+.rsm{
+    height: 40px;
+    width: 40px;
+    margin: 10px;
+}
+.ekprsm{
+    border: 2px solid black;
+}
+p.result{
+    font-size: 50px;
+}
+.button{
+    background-color: green;
+    margin: 10px;
+}
+
+nav ul li{
+    text-decoration: none;
+    list-style-type:none ;
+    float: left;
+    margin: 20px;
+    display: flex;
+    padding: 10px;
+    text-align: center;
+}
+.inptlar{
+    margin: 10px;
+    
+}
+.text1{
+    margin: 10px;
+    
+}
+nav.urunlistesi ul{
+    display: flex;
+    padding: 10px;
+    text-align: center;
+}
+.hata{
+    background-color: red;
+    padding: 10px;
+    color:#fff;
+    margin-bottom: 15px;
+}
+.onay{
+    background-color: green;
+    padding: 10px;
+    color:#fff;
+    margin-bottom: 15px;
+}
+
+
